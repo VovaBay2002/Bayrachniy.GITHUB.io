@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+header {
+  background-color: rgba(39, 25, 247, 0.253);
+
+}
+
+header h1 {
+  font-size: 30px;
+}
+header img {
+  width: 30%;
+}
+.fon{
+  margin: 0;
+  background-color: #8B7AA8;
+}
+
+.ss3 {
+  background-color: #7aa899;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+table td {
+  background-color: rgb(255, 255, 255);
+}
+
+.nechet td {
+  color: rgb(255, 255, 255);
+  background-color: rgb(10, 0, 0);
+}
+
+div a {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  background-color: rgba(39, 25, 247, 0.253);
+  height: 90px;
+  font-size: 20px;
+}
